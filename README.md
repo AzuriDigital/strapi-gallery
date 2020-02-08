@@ -16,7 +16,7 @@ Comes with pre-defined `Tags` and `Images` content types.
 3. Run `yarn run build`
 4. Run `yarn start`
 5. Create an admin user at http://localhost:1337/admin
-6. Create three tags, for example `Favorites`, `Animals` and `Landscapes`
+6. Create three tags, for example `Favorites`, `Animal` and `Landscape`
 7. Enter Cloudinary details: _Plugins_ > _Files Upload_ > _Gear icon_ > _Upload Settings_
 8. Upload images and tag them accordingly
 9. Allow public access to the `Tags` and `Images` content types: _Roles and Permissions_ > _Public_ > Tick _find_ and _findone_ checkboxes for `Tag` and `Image`.
